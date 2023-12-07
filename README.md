@@ -1,4 +1,4 @@
-# Trabalho feito para a disciplica de programação de soluções computacionais - Una - 2023/02 - Professor Diego Barros
+# Trabalho feito para a disciplina de programação de soluções computacionais - Una - 2023/02 - Professor Diego Barros
 
 
 <div align="center">
